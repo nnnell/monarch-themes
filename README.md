@@ -74,11 +74,11 @@ If you aren’t sure how to get to your home Library folder: Open a Finder windo
 ### [Catppuccin Frappe](catppuccin_frappe.json)
 
 <img width="500" src="screenshots/catppuccin_frappe_launcher.png">
-<d>
+<div>
     <img width="250" src="screenshots/catppuccin_frappe_clipboard.png">
     <img width="250" src="screenshots/catppuccin_frappe_colorpicker.png">
     <img width="250" src="screenshots/catppuccin_frappe_audiodevices.png">
-</d>
+</div>
 
 ### [Catppuccin Latte](catppuccin_latte.json)
 
