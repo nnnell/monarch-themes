@@ -24,6 +24,8 @@ If you aren’t sure how to get to your home Library folder: Open a Finder windo
 
 ## Ayu
 
+Source: <https://github.com/ayu-theme/ayu-colors>
+
 ### [Ayu Dark](ayu_dark.json)
 
 <img width="500" src="screenshots/ayu_dark_launcher.png">
@@ -52,6 +54,8 @@ If you aren’t sure how to get to your home Library folder: Open a Finder windo
 </div>
 
 ## Catppuccin
+
+Source: <https://github.com/catppuccin/catppuccin>
 
 ### [Catppuccin Mocha](catppuccin_mocha.json)
 
@@ -145,4 +149,15 @@ If you aren’t sure how to get to your home Library folder: Open a Finder windo
     <img width="250" src="screenshots/roulette_clipboard.png">
     <img width="250" src="screenshots/roulette_colorpicker.png">
     <img width="250" src="screenshots/roulette_audiodevices.png">
+</div>
+
+## [Zenburn](zenburn.json)
+
+Source: <https://github.com/jnurmine/Zenburn>
+
+<img width="500" src="screenshots/zenburn_launcher.png">
+<div>
+    <img width="250" src="screenshots/zenburn_clipboard.png">
+    <img width="250" src="screenshots/zenburn_colorpicker.png">
+    <img width="250" src="screenshots/zenburn_audiodevices.png">
 </div>
